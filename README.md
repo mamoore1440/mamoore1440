@@ -1,4 +1,4 @@
-### Hello [yinz](https://en.wikipedia.org/wiki/Yinz) 👋
+### Hello Yall👋
 
 * Currently a senior in Computer Science at Iowa State University.</br>
 * I have two minors which include Data Science and Economics.</br>
