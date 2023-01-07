@@ -1,6 +1,6 @@
 ### Hello Yall👋
 
-* www.mamoore1440.com
+* My site: www.mamoore1440.com
 * Currently a senior in Computer Science.</br>
 * I have two minors which include Data Science and Economics.</br>
 * Started my programming journey as a high schooler on codecademy.</br>
